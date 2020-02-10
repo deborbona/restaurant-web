@@ -1,0 +1,20 @@
+body {
+  background-color: #FFFFFF;
+
+}
+
+h1 {
+  text-align: center;
+  color: #DF3F3F;
+  font-family: 'Oleo Script', cursive;
+}
+h2 {
+  text-align: center;
+  color: #DFBD3F;
+  font-family: 'Roboto Slab', serif;
+}
+p {
+  color: #000000;
+  font-family: 'Roboto Slab', serif;
+  text-indent: 50px
+}
